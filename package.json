@@ -27,6 +27,7 @@
   "homepage": "https://github.com/peatiscoding/kolp#readme",
   "dependencies": {
     "@koa/router": "^8.0.8",
+    "koa": "^2.13.1",
     "koa-bodyparser": "^4.3.0",
     "serverless-http": "^2.6.0"
   },
